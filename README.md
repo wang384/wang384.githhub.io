@@ -1,2 +1,2 @@
-# wang384.githhub.io
+# wang384.github.io
 hello
